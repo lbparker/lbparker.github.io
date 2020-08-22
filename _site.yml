@@ -1,4 +1,5 @@
 name: "philly-anti-eviction-tools"
+output_dir: "."
 exclude: ["README.md"]
 navbar:
   title: "Philly Anti-Eviction Tools"
